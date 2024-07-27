@@ -1,0 +1,23 @@
+h3 {
+    color: rgb(4, 128, 132);
+}
+
+.orange {
+    color: rgb(143, 93, 0);
+}
+
+.red {
+    color: red;
+}
+
+body {
+    background-color: rgb(132, 178, 132);
+}
+
+.green {
+    color: greenyellow;
+}
+
+h2 {
+    background-color: rgb(214, 131, 47);
+}
